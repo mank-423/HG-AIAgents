@@ -22,3 +22,4 @@ Body: Tools:
 
 Brain splits the task into actions: those actions need tools to complete or not that is decided by brain also.
 reAct framework is used right now to build agents. Reason + Action.
+
